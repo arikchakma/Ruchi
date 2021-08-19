@@ -17,14 +17,14 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/arikchakma/RuchiJS.git"
+		"url": "git+https://github.com/arikchakma/Ruchi.git"
 	},
 	"author": "Arik Chakma",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/arikchakma/RuchiJS/issues"
+		"url": "https://github.com/arikchakma/Ruchi/issues"
 	},
-	"homepage": "https://github.com/arikchakma/RuchiJS#readme",
+	"homepage": "https://github.com/arikchakma/Ruchi#readme",
 	"dependencies": {
 		"gsap": "^3.7.1",
 		"locomotive-scroll": "^4.1.1"
