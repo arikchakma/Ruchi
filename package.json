@@ -1,6 +1,6 @@
 {
-	"name": "ruchijs",
-	"version": "1.1.0",
+	"name": "ruchi",
+	"version": "1.1.1",
 	"description": "It's a javascript library for our utilities & we're making it better day by day.",
 	"module": "index.js",
 	"main": "index.js",
@@ -12,7 +12,8 @@
 		"gsap",
 		"Arik Chakma",
 		"eetpixel",
-		"mr shadow whisper"
+		"mr shadow whisper",
+		"Pollen Chakma"
 	],
 	"repository": {
 		"type": "git",
