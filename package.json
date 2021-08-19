@@ -1,7 +1,8 @@
 {
   "name": "ruchijs",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "It's a library for our utilities & we're making it better day by day.",
+  "module": "index.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
