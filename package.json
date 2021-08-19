@@ -1,6 +1,6 @@
 {
   "name": "ruchijs",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "It's a library for our utilities & we're making it better day by day.",
   "main": "index.js",
   "scripts": {
