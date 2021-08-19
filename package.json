@@ -1,33 +1,42 @@
 {
-  "name": "ruchijs",
-  "version": "1.0.6",
-  "description": "It's a library for our utilities & we're making it better day by day.",
-  "module": "index.js",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "RuchiJS",
-    "Rushi",
-    "locomotive-scroll",
-    "gsap",
-    "Arik Chakma",
-    "eetpixel",
-    "mr shadow whisper"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/arikchakma/RuchiJS.git"
-  },
-  "author": "Arik Chakma",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/arikchakma/RuchiJS/issues"
-  },
-  "homepage": "https://github.com/arikchakma/RuchiJS#readme",
-  "dependencies": {
-    "gsap": "^3.7.1",
-    "locomotive-scroll": "^4.1.1"
-  }
+	"name": "ruchijs",
+	"version": "1.1.0",
+	"description": "It's a javascript library for our utilities & we're making it better day by day.",
+	"module": "index.js",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [
+		"RuchiJS",
+		"Rushi",
+		"locomotive-scroll",
+		"gsap",
+		"Arik Chakma",
+		"eetpixel",
+		"mr shadow whisper"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/arikchakma/RuchiJS.git"
+	},
+	"author": "Arik Chakma",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/arikchakma/RuchiJS/issues"
+	},
+	"homepage": "https://github.com/arikchakma/RuchiJS#readme",
+	"dependencies": {
+		"gsap": "^3.7.1",
+		"locomotive-scroll": "^4.1.1"
+	},
+	"devDependencies": {
+		"babel-eslint": "^10.1.0",
+		"eslint": "7.2.0",
+		"eslint-config-airbnb": "18.2.1",
+		"eslint-config-prettier": "^8.3.0",
+		"eslint-plugin-import": "2.22.1",
+		"eslint-plugin-jsx-a11y": "6.4.1",
+		"eslint-plugin-prettier": "^3.4.0",
+		"eslint-plugin-react": "7.21.5",
+		"eslint-plugin-react-hooks": "1.7.0"
+	}
 }
