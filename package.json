@@ -1,6 +1,6 @@
 {
 	"name": "ruchi",
-	"version": "1.1.1",
+	"version": "1.1.0",
 	"description": "It's a javascript library for our utilities & we're making it better day by day.",
 	"module": "index.js",
 	"main": "index.js",
