@@ -6,6 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "RuchiJS",
+    "Rushi",
+    "locomotive-scroll",
+    "gsap",
+    "Arik Chakma",
+    "eetpixel",
+    "mr shadow whisper"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arikchakma/RuchiJS.git"
