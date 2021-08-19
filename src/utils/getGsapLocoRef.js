@@ -1,4 +1,4 @@
-export default function getGsapLocoRef(){
-    ScrollTrigger.addEventListener('refresh', () => locoScroll.update());
-    ScrollTrigger.refresh();
+export default function getGsapLocoRef(loco) {
+  ScrollTrigger.addEventListener("refresh", () => loco.update());
+  ScrollTrigger.refresh();
 }
